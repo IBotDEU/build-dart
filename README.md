@@ -15,9 +15,9 @@ Package build provide for dart scripts.
 - Run the build command using ctrl-alt-b
 
 # Screenshots
-![Screenshot select build language](screenshot.png)
+![Screenshot select build language](https://github.com/IBotDEU/build-dart/blob/master/screenshot.png?raw=true)
 
-![Screenshot running script](screenshot2.png)
+![Screenshot running script](https://github.com/IBotDEU/build-dart/blob/master/screenshot2.png?raw=true)
 
 ## License
 This work is licensed under the [The MIT License](LICENSE.md).
