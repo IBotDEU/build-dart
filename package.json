@@ -1,7 +1,7 @@
 {
   "name": "build-dart",
   "main": "./lib/provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Atom build provide for dart scripts",
   "homepage": "https://github.com/ibotdeu/build-dart#readme",
   "keywords": [
