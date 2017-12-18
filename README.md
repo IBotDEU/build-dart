@@ -3,7 +3,7 @@
 [![apm](https://img.shields.io/apm/v/build-dart.svg?style=flat-square)](https://atom.io/packages/build-dart)
 [![apm](https://img.shields.io/apm/dm/build-dart.svg?style=flat-square)](https://atom.io/packages/build-dart)
 
-Package build provide for dart scripts.
+[Atom](http://atom.io) build provide for dart scripts.
 
 ## Note: This Package needs [Build](https://atom.io/packages/build) to be installed!
 
